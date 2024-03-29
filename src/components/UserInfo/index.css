@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.img-profile {
+  width: 200px;
+}
+.center {
+  text-align: center;
+}
+.heading {
+  color: #12022f;
+  font-weight: bold;
+}
+.description {
+  color: #9aa5b1;
+}
